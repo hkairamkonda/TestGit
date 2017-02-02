@@ -1,0 +1,10 @@
+STEPS TO COMMIT:
+
+1. git config --global user.name "<user name>"
+2. git config --global user.email <email id>
+3. git clone <copy paste the link> 
+4. Create a file in the folder
+5. git add (file names)
+6. git status
+7. git commit -m "First commit" (file name)
+8. git push -u origin master
